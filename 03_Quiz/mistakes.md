@@ -55,3 +55,67 @@
 - [Income Statement](../02_Concepts/income-statement.md)
 - [Cash Flow Statement](../02_Concepts/cash-flow-statement.md)
 - [Balance Sheet](../02_Concepts/balance-sheet.md)
+
+---
+
+## 2026-08-27 / Accounting Equation & Equity
+
+### Question
+
+公司有：
+
+```text
+现金        30 万
+存货        20 万
+设备        50 万
+银行贷款    40 万
+```
+
+所有者权益是多少？
+
+### My Answer
+
+> 30 万。
+
+### Correct Understanding
+
+先汇总所有资产：
+
+```text
+总资产 = 30 + 20 + 50 = 100 万
+```
+
+再使用会计恒等式：
+
+```text
+所有者权益 = 资产 - 负债
+           = 100 - 40
+           = 60 万
+```
+
+正确答案是 **60 万**。
+
+### Why I Got It Wrong
+
+核心问题不是计算能力，而是**没有形成资产负债表计算的固定操作顺序**：
+
+1. 先识别哪些项目属于资产。
+2. 汇总总资产。
+3. 识别负债。
+4. 使用 `Equity = Assets - Liabilities` 求所有者权益。
+
+这说明“资产 = 负债 + 所有者权益”的概念已经接触，但还没有稳定地用于实际报表项目。
+
+### Rule / Signal to Remember
+
+> **求所有者权益时，不要盯某一个资产项目。先算总资产，再减总负债。**
+
+```text
+Assets = Liabilities + Equity
+Equity = Assets - Liabilities
+```
+
+### Related Concepts
+
+- [Accounting Equation](../02_Concepts/accounting-equation.md)
+- [Balance Sheet](../02_Concepts/balance-sheet.md)
