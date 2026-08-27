@@ -6,9 +6,12 @@
 
 ### 🟡 三张核心报表里分别有哪些重要报表项目？
 
-当前状态：知道利润表、资产负债表、现金流量表的整体作用，但还不熟悉各自的具体报表项目。
+当前状态：
 
-后续重点：随着 Day 2 及之后学习逐项建立，不提前机械背诵全部科目。
+- 已经开始认识资产负债表中的现金、应收账款、存货、固定资产、应付账款、借款和所有者权益。
+- 利润表和现金流量表的具体项目仍未系统展开。
+
+后续重点：随着后续 Day 学习逐项建立，不提前机械背诵全部科目。
 
 Related Concepts:
 
@@ -19,13 +22,59 @@ Related Concepts:
 
 ---
 
+## Balance Sheet 资产负债表
+
+### 🟡 如何判断应收账款增长是否已经变成危险信号？
+
+当前状态：已经能识别“应收账款增速显著高于收入增速”值得调查，也能提出“是不是钱越来越难收回来”的正确问题。
+
+尚未解决：
+
+- 应该比较哪些比例或趋势？
+- 客户付款周期如何衡量？
+- 哪些行业天然应收账款较高？
+- 坏账风险应该如何识别？
+
+Related Concepts:
+
+- [Accounts Receivable](../02_Concepts/accounts-receivable.md)
+
+### 🟡 高负债什么时候是合理扩张，什么时候代表财务风险？
+
+当前状态：已经意识到不能单看负债高低，需要调查“借来的钱是否拿去投资扩产”。
+
+尚未解决：
+
+- 短期债和长期债风险有什么区别？
+- 如何判断偿债能力？
+- 如何看融资成本？
+- 不同行业合理负债水平为什么不同？
+
+Related Concepts:
+
+- [Balance Sheet](../02_Concepts/balance-sheet.md)
+- [Accounting Equation](../02_Concepts/accounting-equation.md)
+
+---
+
 ## Working Capital 营运资金
 
 ### 🟡 为什么应收账款和存货增加会造成利润与经营现金流之间的差异？
 
-当前状态：已经知道它们可能是利润与现金流不匹配时的重要调查方向，但机制还未系统学习。
+当前状态：
 
-后续学习：应收账款（Accounts Receivable）、存货（Inventory）与经营现金流之间的关系。
+- 已经知道应收账款代表收入可能尚未转化为现金。
+- 已经知道存货可能占用现金。
+- 还没有系统学习它们如何进入经营现金流的计算。
+
+后续学习：把应收账款、存货、应付账款与经营现金流完整连接起来。
+
+Related Concepts:
+
+- [Accounts Receivable](../02_Concepts/accounts-receivable.md)
+- [Inventory](../02_Concepts/inventory.md)
+- [Accounts Payable](../02_Concepts/accounts-payable.md)
+- [Cash Flow Statement](../02_Concepts/cash-flow-statement.md)
 
 ---
 
